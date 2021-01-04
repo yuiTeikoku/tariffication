@@ -1,0 +1,13 @@
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\TarifficationService.exe.config
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\TarifficationService.exe
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\TarifficationService.pdb
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\obj\Debug\TarifficationService.csprojAssemblyReference.cache
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\obj\Debug\TarifficationService.csproj.CoreCompileInputs.cache
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\obj\Debug\TarifficationService.exe
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\obj\Debug\TarifficationService.pdb
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\System.Collections.Immutable.dll
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Debug\System.Collections.Immutable.xml
+C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\obj\Debug\TarifficationService.csproj.CopyComplete

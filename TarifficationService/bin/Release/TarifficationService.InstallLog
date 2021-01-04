@@ -1,0 +1,458 @@
+﻿Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security, State.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется откат для сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Восстанавливается исходное состояние журнала событий для источника TarifficationService.
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Предупреждение. Источник TarifficationService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы TarifficationService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = C:\Users\msdoo\source\repos\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Попытка останова службы TarifficationService.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Выполняется удаление источника EventLog TarifficationService.
+Выполняется удаление службы TarifficationService из системы...
+Служба TarifficationService успешно удалена из системы.
+Выполняется установка сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
+Устанавливается служба TarifficationService...
+Служба TarifficationService успешно установлена.
+Создается исходный EventLog TarifficationService в журнале Application...
+Выполняется фиксация сборки 'D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.InstallLog
+   assemblypath = D:\тарификатор\TarifficationService\TarifficationService\TarifficationService\bin\Release\TarifficationService.exe
